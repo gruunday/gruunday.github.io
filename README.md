@@ -1,4 +1,4 @@
-# Reveal.js slide deck
+# Reveal.js Slide Deck
 Reveal.js slide decks for Redbrick
 
 ## To Use
