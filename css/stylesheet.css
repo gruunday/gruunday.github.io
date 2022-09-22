@@ -136,6 +136,11 @@ body a::after {
   content: ' }}';
 }
 
+body .sub::before {
+  content: '--';
+}
+
+
 /*
 body li::before {
   content: '{{ ';
@@ -166,6 +171,10 @@ li {
   bottom: 25px;
   left: 25px;
   float: left;
+}
+
+.child {
+  padding-left: 20px;
 }
 
 .header {

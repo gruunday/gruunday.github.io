@@ -1,0 +1,27 @@
+/**
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}*/
+
+body 
+{
+  display: flex;
+  /*justify-content: baseline;*/
+  align-items: left;
+  height: 10000px;
+  /*min-height: 100vh;
+  overflow: hidden;*/
+}
+
+.art
+{
+  position: relative;
+  width: 700px;
+  height: 350px;
+  background: #ccc;
+  transform: translateX(50px, 300px) /*rotateX(-25deg) rotateY(45deg) ;*/
+}
+
+
